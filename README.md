@@ -1,4 +1,4 @@
-# ImagTool 工具介绍
+# ImgTool 工具介绍
 
 ## 简介：
 
