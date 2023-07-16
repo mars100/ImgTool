@@ -4,6 +4,8 @@
 
 很多很多年前，曾经为了自营商铺准备的exe，曾经的尝试，曾经的青春，曾经的曾经。
 
+![doc_image](images/ImgTool.png)
+
 ## 如何使用：
 下载完成后，运行 ImgTool/ImgTool.exe 即可（纯绿色，无需安装）。
 
